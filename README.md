@@ -46,7 +46,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
+<!--
 <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
@@ -59,3 +59,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=devrose04&column=8&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
 0 comments on commit 53731ce
+-->
