@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="left" id="macropower-tech">Github Stats  </h2>
+/*<h2 align="left" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
   <a href="https://github.com/devrose04">
@@ -72,4 +72,4 @@
 </div>
 <div align="center" width="100">
   <img src="https://github-profile-trophy.vercel.app/?username=devrose04&column=8&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
-</div>
+</div>*/
